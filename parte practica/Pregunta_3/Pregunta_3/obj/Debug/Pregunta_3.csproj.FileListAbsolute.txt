@@ -1,0 +1,7 @@
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\bin\Debug\Pregunta_3.exe.config
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\bin\Debug\Pregunta_3.exe
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\bin\Debug\Pregunta_3.pdb
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\obj\Debug\Pregunta_3.csproj.AssemblyReference.cache
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\obj\Debug\Pregunta_3.csproj.CoreCompileInputs.cache
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\obj\Debug\Pregunta_3.exe
+D:\Practica_1_ActualizacionTecnologica\Pregunta_3\Pregunta_3\obj\Debug\Pregunta_3.pdb

@@ -1,0 +1,7 @@
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\obj\Debug\Pregunta_1.csproj.AssemblyReference.cache
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\obj\Debug\Pregunta_1.csproj.CoreCompileInputs.cache
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\bin\Debug\Pregunta_1.exe.config
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\bin\Debug\Pregunta_1.exe
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\bin\Debug\Pregunta_1.pdb
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\obj\Debug\Pregunta_1.exe
+D:\visual studio ejercicio de prueba\Pregunta_1\Pregunta_1\obj\Debug\Pregunta_1.pdb
